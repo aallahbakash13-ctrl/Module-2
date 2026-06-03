@@ -25,3 +25,4 @@ print("modulo is", result(a, b))
 
 
 ## Result
+The program to return two values modulo is successful.
